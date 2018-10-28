@@ -14,7 +14,7 @@ public class aleatorios {
             int repeticiones = Integer.parseInt(args[0]); //Repeticiones del parámetro 1
             Random aleatorio = new Random(); //Creo un objeto Random que genera un nº aleatorio entre 0 y el nº indicado
             for (int i=0; i<repeticiones; i++){ //Bucle de repeticiones
-                System.out.println(aleatorio.nextInt(100) + 1); //Muestra por pantalla un nº aleatorio 1 y 100 (inclusive)
+                System.out.println(aleatorio.nextInt(101)); //Muestra por pantalla un nº aleatorio 1 y 100 (inclusive)
             }
         }else{
             System.out.println("Parámetros incorrectos"); //Muestra por pantalla el error
