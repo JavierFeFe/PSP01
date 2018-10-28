@@ -4,4 +4,4 @@
 
 ### [Ejercicio 1](Ejercicio1/)
 
-### [Ejercicio 2](Ejercicio2/README.md)
+### [Ejercicio 2](Ejercicio2/)
