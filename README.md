@@ -5,7 +5,7 @@
 **Primera parte:** Implementa una aplicación que ordena un conjunto indeterminado de números que recibe a través de su entrada estándar; y muestra el resultado de la ordenación en su salida estándar. La aplicación se llamará 'ordenarNumeros'.
 
 ![image](https://user-images.githubusercontent.com/44543081/47614305-1f52ad00-da9e-11e8-883b-35bb52b1dd8d.png)
-Genero el código en Eclipse, necesitaría generar una entrada standard para poder probar esta parte, o introducir nºs a modo de prueba en el código mediante un bucle o algo parecido, en mi caso como vi que en la 2ª parte del ejercico ya voy a generar ese código no lo considero necesario.
+Genero el código en Eclipse, necesitaría generar una entrada standard para poder probar esta parte, o introducir nºs a modo de prueba en el código mediante un bucle o algo parecido, en mi caso como vi que en la 2ª parte del ejercico ya voy a generar ese código no lo consideré necesario.
 
 **Segunda parte:** Implementa una aplicación, llamada 'aleatorios', que genere al menos 40 números aleatorios (entre 0 y 100), y que los escriba en su salida estándar.
 
