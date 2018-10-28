@@ -9,7 +9,7 @@ Genero el código en Eclipse, necesitaría generar una entrada standard para pod
 
 **Segunda parte:** Implementa una aplicación, llamada 'aleatorios', que genere al menos 40 números aleatorios (entre 0 y 100), y que los escriba en su salida estándar.
 
-![screenshot_1](https://user-images.githubusercontent.com/44543081/47614287-d6025d80-da9d-11e8-8780-8919de1688b6.png)  
+![image](https://user-images.githubusercontent.com/44543081/47614544-b40ada00-daa1-11e8-939d-fe61fc1999aa.png)  
 ![image](https://user-images.githubusercontent.com/44543081/47614501-08fa2080-daa1-11e8-92a2-719d7c34bfae.png)  
 Compruebo que los nºs generados estén entre 0 y 100 (inclusive)
 
