@@ -15,4 +15,5 @@
 
 **Tercera parte:** Realiza un pequeño manual (tipo "¿Cómo se hace?" o "HowTo"), utilizando un fichero README.md (en la raíz de tu proyecto y como muestra esta plantilla) en el que indiques, con pequeñas explicaciones y capturas, cómo has probado la ejecución de las aplicaciones que has implementado en este ejercicio. Entre las pruebas que hayas realizado, debes incluir una prueba en la que utilizando el operador "|" (tubería) redirijas la salida de la aplicación 'aleatorios' a la entrada de la aplicación 'ordenarNumeros'.
 
-![image](https://user-images.githubusercontent.com/44543081/47614356-0991b780-da9f-11e8-9306-3407a7e559b7.png)  
+![image](https://user-images.githubusercontent.com/44543081/47614584-8e320500-daa2-11e8-9a3f-61fd40f15613.png)  
+*Realizo la prueba con la salida de aleatorios y la entrada en ordenarNumeros*
