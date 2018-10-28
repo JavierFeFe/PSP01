@@ -4,7 +4,7 @@
 
 **Primera parte:** Implementa una aplicación que ordena un conjunto indeterminado de números que recibe a través de su entrada estándar; y muestra el resultado de la ordenación en su salida estándar. La aplicación se llamará 'ordenarNumeros'.
 
-
+![screenshot_1](https://user-images.githubusercontent.com/44543081/47614287-d6025d80-da9d-11e8-8780-8919de1688b6.png)
 
 **Segunda parte:** Implementa una aplicación, llamada 'aleatorios', que genere al menos 40 números aleatorios (entre 0 y 100), y que los escriba en su salida estándar.
 
