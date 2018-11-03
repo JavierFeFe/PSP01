@@ -37,7 +37,8 @@ public class lenguaje {
 					cadena += letra; //añade ese caracter a la cadena de texto
 				}
 				raf = new RandomAccessFile(archivo, "rwd"); //Creamos un acceso al archivo
-				while ((bloqueo=raf.getChannel().tryLock()) == null); //Intenta desbloquear el archivo, si no puede se queda en espera
+				//while ((bloqueo=raf.getChannel().tryLock()) == null); //Intenta desbloquear el archivo, si no puede se queda en espera (no recomendado)
+				bloqueo=raf.getChannel().lock(); //Se queda a la espera para desbloquear el archivo
 				while (raf.readLine() != null); //Se mueve al final del archivo				
 				if (raf.getFilePointer() == 0) { //Si está en la posición del primer caracter no añade salto de línea al principio
 					raf.writeBytes(cadena);
