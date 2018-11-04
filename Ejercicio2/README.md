@@ -12,7 +12,7 @@ Indicando que se generarán 40 palabras del lenguaje y serán guardadas en miFic
 ![image](https://user-images.githubusercontent.com/44543081/47619402-90b25000-dade-11e8-9933-d2ab916965e6.png)  
 *Genero una palabra con carácteres aleatorios*
 
-![image](https://user-images.githubusercontent.com/44543081/47619430-d242fb00-dade-11e8-8dfd-aa5a5b402ffd.png)  
+![image](https://user-images.githubusercontent.com/44543081/47968825-71339e00-e06f-11e8-9e74-140c5eea688f.png)  
 *Me sitúo al final del archivo y escribo la nueva palabra*
 
 ![image](https://user-images.githubusercontent.com/44543081/47619483-5eedb900-dadf-11e8-88c1-2d4a8a9eb5e1.png)  
