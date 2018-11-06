@@ -44,9 +44,15 @@ if (args.length == 1 && args[0].matches("\\d\\d*")){ //Comprueba que solo se int
 *Genero el código en Eclipse para el generador de números aleatorios.*
 
 ![image](https://user-images.githubusercontent.com/44543081/47614501-08fa2080-daa1-11e8-92a2-719d7c34bfae.png)  
+```
+java -classpath c:\pruebas aleatorios 40
+```
 *Compruebo que los nºs generados estén entre 0 y 100 (inclusive)*
 
 **Tercera parte:** Entre las pruebas que hayas realizado, debes incluir una prueba en la que utilizando el operador "|" (tubería) redirijas la salida de la aplicación 'aleatorios' a la entrada de la aplicación 'ordenarNumeros'.
 
 ![image](https://user-images.githubusercontent.com/44543081/47614584-8e320500-daa2-11e8-9a3f-61fd40f15613.png)  
+```
+java -classpath c:\pruebas aleatorios 40 | java -classpath c:\pruebas ordenarNumeros
+```
 *Realizo la prueba con la salida de aleatorios y la entrada en ordenarNumeros*
