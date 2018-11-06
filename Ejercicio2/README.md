@@ -73,5 +73,6 @@ java -jar colaborar.jar 10 miFicheroColaborado.txt
 find /v /c "" miFicheroColaborado.txt
 ```
 *Muestro el nº de líneas por consola (Windows)*  
+  
 **Se incluyen los archivos "jar" dentro de la carpeta build**
 
