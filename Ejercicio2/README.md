@@ -36,8 +36,10 @@ bloqueo.release();//Libera el bloqueo
 ```
 *Me sitúo al final del archivo y escribo la nueva palabra*  
   
-![image](https://user-images.githubusercontent.com/44543081/47619483-5eedb900-dadf-11e8-88c1-2d4a8a9eb5e1.png)  
-*El código se repetirá el número de veces indicado*
+```Java
+for (int i = 0; i<lineas; i++) { //generará el nº de líneas indicadas en la variable lineas
+```
+*El código se repetirá el número de veces indicado*  
 
 ![image](https://user-images.githubusercontent.com/44543081/47619182-429c4d00-dadc-11e8-8572-ec9f52d0ca14.png)  
 *Ejecuto la aplicación tal como se solicita en el ejercicio*
