@@ -66,11 +66,12 @@ for (int i=0; i<repeticiones; i++) { //Bucle que ejecuta la tarea con las repeti
 *Genero un bucle en colaborar.java que incrementa en 10 el nº de líneas las veces indicadas*  
 
 ![image](https://user-images.githubusercontent.com/44543081/47619305-80e63c00-dadd-11e8-8e43-524ab2f08af3.png)  
-*Ejecuto la aplicación tal como se solicita en el ejercicio*  
 ```
 java -jar colaborar.jar 10 miFicheroColaborado.txt
 ```
+*Ejecuto la aplicación tal como se solicita en el ejercicio*  
 ```
 find /v /c "" miFicheroColaborado.txt
 ```
+*Muestro el nº de líneas por consola (Windows)*
 
