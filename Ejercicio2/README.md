@@ -42,11 +42,10 @@ for (int i = 0; i<lineas; i++) { //generará el nº de líneas indicadas en la v
 *El código se repetirá el número de veces indicado*  
 
 ![image](https://user-images.githubusercontent.com/44543081/47619182-429c4d00-dadc-11e8-8572-ec9f52d0ca14.png)  
-*Ejecuto la aplicación tal como se solicita en el ejercicio*
 ```
 java -jar lenguaje.jar 40 miFicheroDeLenguaje.txt
 ```
-
+*Ejecuto la aplicación tal como se solicita en el ejercicio*
 
 **Segunda parte:** implementa una aplicación, llamada 'colaborar', que lance al menos 10 instancias de la aplicación "lenguaje". Haciendo que todas ellas, colaboren en generar un gran fichero de palabras. Cada instancia generará un número creciente de palabras de 10, 20, 30, … Por supuesto, cada proceso seguirá escribiendo su palabra en una línea independiente de las otras. Es decir, si lanzamos 10 instancias de "lenguaje", al final, debemos tener en el fichero 10 + 20 + 30 + … + 100 = 550 líneas.
 Tercera parte: Realiza un pequeño manual (tipo "¿Cómo se hace?" o "HowTo"), utilizando un fichero README.md (en la raíz de tu proyecto y como muestra esta plantilla) en el que indiques en el que indiques, con pequeñas explicaciones y capturas, cómo has probado la ejecución de las aplicaciones que has implementado en este ejercicio.
