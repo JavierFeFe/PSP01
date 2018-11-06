@@ -55,4 +55,7 @@ java -classpath c:\pruebas aleatorios 40
 ```
 java -classpath c:\pruebas aleatorios 40 | java -classpath c:\pruebas ordenarNumeros
 ```
-*Realizo la prueba con la salida de aleatorios y la entrada en ordenarNumeros*
+*Realizo la prueba con la salida de aleatorios y la entrada en ordenarNumeros*  
+
+**Se incluyen los archivos "class" dentro de la carpeta build**
+
