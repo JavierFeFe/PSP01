@@ -22,7 +22,7 @@ public class lenguaje {
 			nombreArchivo = args[1];
 			lineas = Integer.parseInt(args[0]);
 		}else {
-			//return; //Activando esto solo funciona con los argumentos adecuados
+			//System.exit(0); //Activando esto solo funciona con los argumentos adecuados
 		}
 		try {
 			archivo = new File(nombreArchivo);			
