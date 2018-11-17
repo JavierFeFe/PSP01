@@ -12,7 +12,7 @@ try {
     while ((entrada = buffer.readLine()) != null) { //Leo líneas mientras entren resultados desde System.in
         if (!entrada.matches("\\d+")) { //Paro la ejecución y muestro error si el valor interpretado no es un número
             System.out.println("Parámetros incorrectos");
-            return;
+            System.exit(0);
         }
         lista.add(Integer.parseInt(entrada));
     }
